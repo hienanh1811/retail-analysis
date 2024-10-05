@@ -18,3 +18,7 @@ I want to analyze the given data and then segment the customers using the RFM ap
 - Set libraries & working directory
 - Performing data processing
 - Exploratory Data Analysis (EDA)
+
+## Data Source
+Kaggle
+https://www.kaggle.com/datasets/sahilprajapati143/retail-analysis-large-dataset/data
